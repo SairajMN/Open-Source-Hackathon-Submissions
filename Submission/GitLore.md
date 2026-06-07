@@ -83,7 +83,7 @@ A full evaluation framework with 8 base traces and 5 custom multi-hop traces acr
 - [x] My repository has a proper README.md
 - [x] I have added setup/installation instructions (docker-compose quick start in README)
 - [x] I have added screenshots/demo where possible (SCREENSHOTS.md + demo video at https://youtu.be/PTGIIfTrbgU)
-- [ ] I have added a license file *(README declares MIT, but the actual LICENSE file is not yet committed — to be added before final review)*
+- [x] I have added a license file 
 - [x] My project is original and built/updated during the hackathon period
 
 ---
@@ -92,23 +92,23 @@ A full evaluation framework with 8 base traces and 5 custom multi-hop traces acr
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+- [x] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [x] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+- [x] I have followed Memori Labs on X  
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+- [x] I have checked Memori Labs social links  
   https://linktr.ee/memorilabs
 
 ---
 
 ## ID Card Verification
 
-- [ ] I have generated my ID card from https://oshack.xyz
-- [ ] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
+- [x] I have generated my ID card from https://oshack.xyz
+- [x] If my ID was not verified, I completed the mandatory verification/giveaway form and tried again
 
 ---
